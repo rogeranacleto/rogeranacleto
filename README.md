@@ -1,8 +1,5 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fff&center=true&vCenter=true&random=false&width=524&lines=Olá+seja+bem-vindo!;Meu+nome+é+Roger+Anacleto" alt="Typing SVG">
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+seja+bem-vindo!;Meu+nome+é+Roger+Anacleto)](https://git.io/typing-svg)
+<p align="center">
 
 **`Desenvolvedor Front End`**
 
