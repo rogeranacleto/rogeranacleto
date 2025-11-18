@@ -105,7 +105,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="250" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeranacleto&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
