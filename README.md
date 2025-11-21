@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+seja+bem-vindo!;Meu+nome+é+Roger+Anacleto)](https://git.io/typing-svg)
 <p align="center">
 
-**`Desenvolvedor Front End`**
-
 <p align="center">
     Meu nome é Roger Anacleto, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas e gosto de criar projetos que me permitam aprimorar minhas habilidades e aprender novas abordagens dentro do desenvolvimento. Venho consolidando minha experiência por meio de estudos contínuos e prática constante, sempre buscando evoluir tecnicamente e ampliar meu repertório na área. Estou sempre em busca de novos aprendizados e oportunidades que contribuam para o meu crescimento profissional.
 </p>
