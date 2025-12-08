@@ -9,8 +9,6 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
 
----
-
 ## Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/rogeranacleto" target="_blank">
