@@ -27,7 +27,7 @@
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -35,7 +35,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -43,7 +43,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -51,7 +51,7 @@
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -59,7 +59,7 @@
     align="left" 
     alt="React.js"
     title="React.js" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -67,7 +67,7 @@
     align="left" 
     alt="Node.js" 
     title="Node.js"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
@@ -75,7 +75,7 @@
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -83,7 +83,7 @@
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
@@ -91,7 +91,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -99,12 +99,3 @@
 <br/>
 <br/>
 <br/>
-
-## Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rogeranacleto&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  /> <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rogeranacleto&theme=highcontrast" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rogeranacleto&theme=highcontrast" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rogeranacleto&theme=highcontrast" />
-</div>
