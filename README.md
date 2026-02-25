@@ -97,3 +97,8 @@ Venho consolidando minha experiência por meio de estudos contínuos e prática 
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogeranacleto/rogeranacleto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogeranacleto/rogeranacleto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rogeranacleto/rogeranacleto/output/pacman-contribution-graph.svg">
+</picture>
